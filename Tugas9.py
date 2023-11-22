@@ -6,4 +6,4 @@ def profile(nama, alamat, gender, umur, hobi):
     print("saya berusia : ", umur)
     print("Hobi saya : ", hobi)
 
-profile("Alif", "Jakarta", "Laki-laki", "20", "Bermain Game")
+profile("Alif", "Jakarta", "Laki-laki", "20 Tahun", "Bermain Game")
